@@ -1,0 +1,10 @@
+print("This program takes 7 fruit names and makes a list of it")
+fruit1 = input("Enter Fruit 1:\n")
+fruit2 = input("Enter Fruit 2:\n")
+fruit3 = input("Enter Fruit 3:\n")
+fruit4 = input("Enter Fruit 4:\n")
+fruit5 = input("Enter Fruit 5:\n")
+fruit6 = input("Enter Fruit 6:\n")
+fruit7 = input("Enter Fruit 7:\n")
+fruitsList=[fruit1,fruit2,fruit3,fruit4,fruit5,fruit6,fruit7]
+print(fruitsList)
